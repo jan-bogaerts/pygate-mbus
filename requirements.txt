@@ -1,0 +1,4 @@
+pygate_core
+python-mbus
+enum34
+tzlocal

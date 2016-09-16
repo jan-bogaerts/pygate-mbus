@@ -11,8 +11,8 @@ from threading import Event
 from meterbus import Mbus, MBusScanner
 import thread                                   # to stop the application
 
-from core.gateway import Gateway
-from core import config
+from pygate_core.gateway import Gateway
+from pygate_core import config
 
 _gateway = None
 _mbus = None

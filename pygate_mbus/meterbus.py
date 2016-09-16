@@ -15,7 +15,7 @@ from mbus.MBusFrameData import MBusFrameData
 import mbus.MBusLowLevel as mbusLow
 import datetime
 
-from core import config
+from pygate_core import config
 import ctypes
 import binConverter
 
